@@ -29,8 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://nick89mck.github.io/Testimonial-grid-section/)
-- Live Site URL: [Add live site URL here](https://nick89mck.github.io/Testimonial-grid-section/)
+- Solution/Live site URL: [https://nick89mck.github.io/Testimonial-grid-section/](https://nick89mck.github.io/Testimonial-grid-section/)
 
 ## My process
 
